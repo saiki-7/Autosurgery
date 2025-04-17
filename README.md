@@ -125,12 +125,11 @@ By clicking the Sign Up button your credentials will be saved in the MongoDB.
 
 
 2. Now Log in to your account by giving Email and Password.
-
-          ![image](https://github.com/user-attachments/assets/a0b705c7-c325-4705-bbd4-121b3caaa580)
+ ![image](https://github.com/user-attachments/assets/a0b705c7-c325-4705-bbd4-121b3caaa580)
 
 
 3. Now you will be entering the home page which welcomes you with your first and last name. 
-   ![image](https://github.com/user-attachments/assets/60aab5f2-a885-4c9c-8a7a-e6d4423fbff1)
+![image](https://github.com/user-attachments/assets/60aab5f2-a885-4c9c-8a7a-e6d4423fbff1)
 
 
 4. By clicking on choose file you need to upload the image 
